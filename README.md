@@ -10,7 +10,7 @@ Integrated video content to enhance product understanding.
 
 Designed with a responsive layout for cross-device compatibility.
 
-E-Commerce Website for Diwali Scheme:
+E-Commerce Website for Christmas Scheme:
 
 Created a basic e-commerce platform tailored for Diwali promotional sales.
 
